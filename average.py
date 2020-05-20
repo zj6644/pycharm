@@ -7,4 +7,4 @@ while xStr!='':
     count+=1
     xStr=input()
 a=num/count
-print('平均数为：{:.1f}'.format(a))
+print('平均数为：{:.2f}'.format(a))
